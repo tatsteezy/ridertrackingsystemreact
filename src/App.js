@@ -15,12 +15,13 @@ function App() {
             <CovidUpdates />
           </Route>
           <Route path="/interactive_map">
+            <Header />
             <InteractiveMap />
           </Route>
           <Route path="/">
             <Header />
             <Home />
-          </Route>
+          </Route>v
         </Switch>
       </div>
     </Router>

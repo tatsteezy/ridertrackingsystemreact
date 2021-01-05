@@ -1,0 +1,22 @@
+.interactive_map {
+  height: 80vh;
+  width: 70vw;
+  margin: 20px;
+}
+
+.map_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.map_controls {
+  width: 20vw;
+  height: 80vh;
+  margin: 20px;
+  background-color: red;
+}
+
+

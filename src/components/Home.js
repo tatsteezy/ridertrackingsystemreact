@@ -54,7 +54,7 @@ function Home() {
                 </div>
                 <div className="map-content">
                     <h2>COVID-19 Interactive Map</h2>
-                    <p>COVID-19 Interactive Map is </p>
+                    <p>COVID-19 Interactive Map is useful on tracking the COVID-19 active cases on a City. The map is connected to Google Maps API that is modified to show the current active cases that may have a food transaction fron the Delivery Service Provider.</p>
                 </div>
             </section>
 
