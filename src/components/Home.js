@@ -69,7 +69,7 @@ function Home() {
                 <div className="box bg-theme">
                     <i className="fas fa-phone fa-3x"></i>
                     <h3>Contact Us</h3>
-                    <p>Cellphone no. 09674469960</p>
+                    <p>Cellphone no.</p>
                 </div>
                 <div className="box">
                     <i className="fas fa-envelope fa-3x"></i>
