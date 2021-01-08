@@ -19,7 +19,7 @@ function Header() {
         <img src={rts_logo} alt="logo" height="67px" />
         <div className="container">
           <h1 className="logo">
-            <a href="index.html">Rider Tracking System</a>
+            <a href="index.html">Rider Tracking System ni tats</a>
           </h1>
           <ul>
             <Link to="/">
